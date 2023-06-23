@@ -9,7 +9,7 @@ import { useNavigate } from "react-router-dom";
 import { useContext } from 'react';
 import { Context } from '../../../context/userContext/Context';
 
-import './SignIn.css'; // Import the CSS file for SignIn component
+import './signin.css'; // Import the CSS file for SignIn component
 
 const SignIn = () => {
 
